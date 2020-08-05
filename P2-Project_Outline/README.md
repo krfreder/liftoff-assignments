@@ -7,7 +7,10 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+One of the most important details in a job search is company culture. As someone who is both gay and gender-nonconforming, myself and many others underrepresented in the workforce heavily emphasize culture during a job search. While Glassdoor, Indeed, and similar websites might provide written reviews and salary ranges, they never seem to tell me what I really want to know – how other people with a similar lived experience view the company. Do they feel supported by HR, appropriately compensated, accepted?
+
+This is the gap that my project is attempting to fill. Not only will users be able to submit and sort through the standard employment details, they will also be able to submit and sort through cultural touchstones and identity markers. For instance, Jay (a San Diego-based Scrum Master who identifies as nonbinary and has a disability) would be able to search for employment information posted by other persons who are nonbinary and/or have a disability. Company culture and job insights provided by others with a shared lived experience.
+
 ### Features
 Include Features here
 ### Technologies
