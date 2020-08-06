@@ -19,8 +19,16 @@ This is the gap that my project is attempting to fill. Not only will users be ab
 - Search: Users will be able to search through job database given specified filters.
 
 ### Technologies
-Include Technologies here
+-	Java
+-	MySQL
+-	Spring Boot
+-	Spring Security
+-	Hibernate
+-	Thymeleaf Templates
+-	Bootstrap
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+-	Spring Security
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/CmMNt5T5/liftoff-projects
