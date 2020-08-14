@@ -8,12 +8,26 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+Main Folder: https://github.com/krfreder/job-search-database/tree/master/wireframes
+
+1-signupPage: https://github.com/krfreder/job-search-database/blob/master/wireframes/1-signupPage.PNG
+
+2-register: https://github.com/krfreder/job-search-database/blob/master/wireframes/2-register.PNG
+
+3-profilePage: https://github.com/krfreder/job-search-database/blob/master/wireframes/3-profilePage.PNG
+
+4-userJobs: https://github.com/krfreder/job-search-database/blob/master/wireframes/4-userJobs.PNG
+
+5-submitJob: https://github.com/krfreder/job-search-database/blob/master/wireframes/5-submitJob.png
+
+6-search: https://github.com/krfreder/job-search-database/blob/master/wireframes/6-search.png
+
+7-displayResults: https://github.com/krfreder/job-search-database/blob/master/wireframes/7-displayResults.png
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/CmMNt5T5/liftoff-projects
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/krfreder/job-search-database
